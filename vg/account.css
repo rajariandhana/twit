@@ -1,0 +1,15 @@
+form
+{
+    /* display: flex;
+    flex-direction: column; */
+    /* justify-content: flex-start; */
+    background-color: aqua;
+}
+.editcontainer
+{
+    /* display: flex;
+    flex-direction: column; */
+    justify-content: flex-start;
+    background-color: brown;
+    /* align-items: center; */
+}
